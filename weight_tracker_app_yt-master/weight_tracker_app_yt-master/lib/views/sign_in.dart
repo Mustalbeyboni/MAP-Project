@@ -223,7 +223,7 @@ class _HomePageState extends State<HomePage> {
             ),
             Container(
               height: 100,
-              width: 570,
+              width: 1000,
               padding: EdgeInsets.all(20),
               child: RaisedButton(
                   color: Colors.pink,
