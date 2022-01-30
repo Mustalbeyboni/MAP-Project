@@ -228,7 +228,7 @@ class _HomePageState extends State<HomePage> {
               child: RaisedButton(
                   color: Colors.pink,
                   child:
-                      Text("gotoHome", style: TextStyle(color: Colors.white)),
+                      Text("goto Home", style: TextStyle(color: Colors.white)),
                   shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(30)),
                   onPressed: () {
